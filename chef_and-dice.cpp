@@ -44,10 +44,8 @@ while(t--)
         s+=a2;
         if(r==3)
         s+=a3;
-        if(r==4)
-        s+=a4;
-        
-        cout<<s<<endl;
+
+                cout<<s<<endl;
     }
     
 
